@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: "Montserrat", sans-serif;
+    background-color: #321D26;
+}
+
+header .fej, .Hi, .skill, footer a, footer p{
+    display: inline-block;
+}
+header{
+    text-align: center;
+    padding: 40px;
+    padding-bottom: 0;
+    background-image: inherit;
+}
+header a{
+    text-decoration: none;
+    padding-left: 20px;
+}
+h2, a{
+    color: #F5A75C;
+}
+main, footer{
+    background-color: #321D26;
+}
+h3, p, h1{
+    color: #fff;
+}
+.icon{
+    color: #fff;
+    background-color: #000;
+    border-radius: 10px;
+}
+footer{
+    margin: 0 auto;
+    border-top: #F5A75C solid 5px;
+    text-align: center;
+    padding: 15px 0 5px 0;
+}
+footer p {
+    margin-right: 300px;
+}
+main{
+    margin: 0 auto;
+    padding: 0 400px 50px 400px;
+}
+main h3{
+    font-size: 25px;
+}
+main p {
+    padding-top: 0;
+}
+main img{
+    margin-left: 200px;
+}
+.talk1, .talk2{
+    border: #F5A75C solid 2px;
+    padding: 10px 30px 10px 30px;
+}
+.talk2{
+    margin-top: 50px;
+}
+.talk1, .home{
+    margin-left: 200px;
+}
+.Jony{
+    margin-top: 100px;
+}
+.fej img {
+    margin-left: 50px;
+}
+.Hi{
+    text-align: left;
+    font-size: 25px;
+}
+.Hi h2{
+    padding-top: 0;
+    margin-top: 0;
+}
+.Hi h1{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.szöveg, .Hi .talk2{
+    object-position: top;
+}
